@@ -1,0 +1,61 @@
+
+/* Assignment 1 */
+
+.dark-coffee {
+    color: Brown;
+}
+
+.medium-coffee {
+    color:rgb(233, 135, 16);
+}
+
+.light-coffee {
+    color:rgb(255, 221, 83);
+}
+
+
+/* Assignment 2 */
+
+.bodyclass {
+    background-color: aliceblue;
+}
+
+.h1class {
+    font-size: 50pt;
+}
+
+.h2class {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.divclass {
+    background-color: aqua;
+}
+
+.parent > div {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pclass1 {
+    color: blueviolet;
+}
+
+.pclass2 {
+    background-color: rgb(236, 21, 182);
+}
+
+.pclass3 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.pclass4 {
+    font-size: 15pt;
+}
+
+.h4class {
+    color: red;
+}
+
+.liclass {
+    font-style: italic;
+}
