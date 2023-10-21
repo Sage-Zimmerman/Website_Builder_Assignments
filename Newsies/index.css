@@ -1,0 +1,53 @@
+
+body {
+    background-color:rgb(191, 237, 253);
+}
+
+.header {
+    font-size: 120px;
+    text-align: center;
+    padding: 1%;
+    font-family:cursive;
+    color:rgb(0, 0, 150);
+    text-decoration: underline;
+}
+
+.papertitle {
+    font-size: 55px;
+    text-align: center;
+    color:rgb(10, 0, 78);
+}
+
+.aligncenter {
+    text-align: center;
+    background-color: rgb(100, 122, 132);
+    padding: auto;
+}
+
+p {
+    width: 250px;
+    padding: 1%;
+    padding-right: 25px;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.papercolumn {
+    display: inline-block;
+    vertical-align: top;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.articlebody {
+    text-align: center;
+    background-color: rgb(203, 241, 252);
+    padding: 20px;
+}
