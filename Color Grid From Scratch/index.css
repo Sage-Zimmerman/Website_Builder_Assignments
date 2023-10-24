@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box; 
+    font-size: 0px;
+}
+
+body, html {
+    background-color: white;
+    margin: 5px;
+}
+
+.row {
+    height: 180px;
+    border: 10px solid white;
+    display: block;
+}
+
+.pinksquare {
+    background-color: #F5C6D6;
+    height: 180px;
+    border: 10px solid white;
+    display: block;
+    width: 100%;
+}
+
+.magentasquare {
+    background-color: #EE2E84;
+    height: 180px;
+    border: 10px solid white;
+    display: inline-block;
+    width: 25%;
+}
+
+.bluesquare {
+    background-color: #85CFD8;
+    height: 180px;
+    border: 10px solid white;
+    display: inline-block;
+    width: 50%;
+}
+
+.greensquare {
+    background-color: #8DC63F;
+    height: 180px;
+    border: 10px solid white;
+    display: inline-block;
+    width: 75%;
+}
+
+.orangesquare {
+    background-color: #E76E34;
+    height: 180px;
+    border: 10px solid white;
+    display: inline-block;
+    width: 25%;
+}
