@@ -1,0 +1,64 @@
+
+
+
+/* Build the following flags in pure HTML and CSS, no images allowed. 
+    No need to make them responsive. The "aspect ratios" listed below refer in 
+    to the height:width aspects. E.g. France 🇫🇷 is 2:3, so if you make it 200px 
+    height, it should be 300px in width. With Germany 🇩🇪 (3:5), 200px height 
+    would be 333px in width (200px × 5 ÷ 3 = 333.3333px)
+
+France
+
+    Blue: #002495
+    White: #FFFFFF
+    Red: #ED2938
+    Aspect Ratio: 2:3
+
+Germany
+
+    Black: #000000
+    Red: #DE0002
+    Yellow: #FFCE00
+    Aspect Ratio: 3:5
+
+Madagascar
+
+    White: #FFFFFF
+    Red: #FC3E32
+    Green: #007E39
+    Aspect Ratio: 2:3
+
+Switzerland
+
+    White: #FFFFFF
+    Red: #FF0002
+    Aspect Ratio: 1:1
+
+Sweden
+
+    Blue: #0269A6
+    Yellow: #FECC00
+    Aspect Ratio: 5:8
+
+Gambia
+
+    Red: #CE1127
+    White: #FFFFFF
+    Blue: #0D1D8B
+    Green: #3B7827
+    Aspect Ratio: 2:3
+
+Japan
+
+    White: #FFFFFF
+    Red: #BC022C
+    Aspect Ratio: 2:3
+
+Niger
+
+    Orange: #E15307
+    White: #FFFFFF
+    Green: #10AF2A
+    Aspect Ratio: 6:7
+
+*/
