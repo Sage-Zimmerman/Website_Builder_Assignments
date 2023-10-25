@@ -1,4 +1,119 @@
 
+.inline {
+    display: inline-block;
+    position: relative;
+    right: 4px;
+}
+
+
+.france {
+    padding: 20px;
+}
+
+.franceblue {
+    background-color:#002495;
+    display: inline-block;
+    width: 100px;
+    height: 200px;
+}
+
+.francewhite {
+    background-color:#FFFFFF;
+    display: inline-block;
+    width: 100px;
+    height: 200px;
+}
+
+.francered {
+    background-color:#ED2938;
+    display: inline-block;
+    width: 100px;
+    height: 200px;
+}
+
+
+
+.germany {
+    padding: 20px;
+}
+
+.germanyblack {
+    background-color: #000000;
+    height: 67px;
+    width: 333px;
+}
+
+.germanyred {
+    background-color: #DE0002;
+    height: 66px;
+    width: 333px;
+}
+
+.germanyyellow {
+    background-color: #FFCE00;
+    height: 67px;
+    width: 333px;
+}
+
+
+
+.madagascar {
+    padding: 20px;
+    background-color: aquamarine;
+}
+
+.madagascarwhite {
+    background-color:#FFFFFF;
+    display: inline-block;
+    width: 100px;
+    height: 200px;
+}
+
+.madagascarred {
+    background-color:#FC3E32;
+    display: block;
+    width: 204px;
+    height: 100px;
+}
+
+.madagascargreen {
+    background-color:#007E39;
+    display: block;
+    width: 204px;
+    height: 100px;
+}
+
+
+
+.switzerland {
+    height: 200px;
+}
+
+.sweden {
+    height: 200px;
+}
+
+.gambia {
+    height: 200px;
+}
+
+.japan {
+    height: 200px;
+}
+
+.niger {
+    height: 200px;
+}
+
+
+
+
+
+
+
+
+
+
 
 
 /* Build the following flags in pure HTML and CSS, no images allowed. 
