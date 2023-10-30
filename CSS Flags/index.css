@@ -180,7 +180,24 @@
 
 
 .japan {
+    background-color: aquamarine;
+    padding: 20px;
+}
+
+.japanwhite {
     height: 200px;
+    width: 300px;
+    background-color: #FFFFFF;
+}
+
+.japancircle {
+    background-color: #BC022C;
+    height: 120px;
+    width: 120px;
+    border-radius: 100%;
+    position: relative;
+    bottom: 160px;
+    left: 90px;
 }
 
 
