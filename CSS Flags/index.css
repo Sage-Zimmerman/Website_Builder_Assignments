@@ -2,6 +2,7 @@
 
 .france {
     padding: 20px;
+    background-color: aqua;
 }
 
 .franceblue {
@@ -9,6 +10,7 @@
     display: inline-block;
     width: 100px;
     height: 200px;
+    position: relative;
 }
 
 .francewhite {
@@ -16,6 +18,8 @@
     display: inline-block;
     width: 100px;
     height: 200px;
+    position: relative;
+    right: 4px;
 }
 
 .francered {
@@ -23,6 +27,8 @@
     display: inline-block;
     width: 100px;
     height: 200px;
+    position: relative;
+    right: 8px;
 }
 
 
@@ -204,7 +210,36 @@
 
 
 .niger {
-    height: 200px;
+    padding: 20px;
+    background-color: aqua;
+}
+
+.nigerorange {
+    height: 66px;
+    width: 233px;
+    background-color: #E15307;
+}
+
+.nigerwhite {
+    height: 68px;
+    width: 233px;
+    background-color: #FFFFFF;
+}
+
+.nigergreen {
+    height: 66px;
+    width: 233px;
+    background-color: #10AF2A;
+}
+
+.nigercircle {
+    height: 55px;
+    width: 55px;
+    background-color: #E15307;
+    border-radius: 100%;
+    position: relative;
+    bottom: 127px;
+    left: 85px;
 }
 
 
