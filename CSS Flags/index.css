@@ -145,12 +145,46 @@
 
 
 .gambia {
-    height: 200px;
+    padding: 20px;
+    background-color: aqua;
+    position: relative;
 }
+
+.gambiared {
+    height: 67px;
+    width: 300px;
+    background-color: #CE1127;
+}
+
+.gambiawhite {
+    height: 66px;
+    width: 300px;
+    background-color: #FFFFFF;
+}
+
+.gambiagreen {
+    height: 67px;
+    width: 300px;
+    background-color: #3B7827;
+}
+
+.gambiablue {
+    height: 40px;
+    width: 300px;
+    position: relative;
+    background-color: #0D1D8B;
+    bottom: 120px;
+    
+}
+
+
 
 .japan {
     height: 200px;
 }
+
+
+
 
 .niger {
     height: 200px;
